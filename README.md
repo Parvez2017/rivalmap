@@ -26,6 +26,7 @@ To run the RivalMap app:
 
 - **Install Dependencies**: Execute `pip install -r requirements.txt` in your terminal.
 - **Launch the App**: Run `streamlit run streamlit_app.py` to start the Streamlit interface.
+- **Provide Product Information**: SaaS Product Name, Website, and the focus area of your competitors i.e. GTM, growth, sales, etc.
 
 ★ **Disclaimer**: The application uses GPT-4 by default. Ensure you have access to OpenAI's API and be aware of the associated costs.
 
