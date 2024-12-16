@@ -77,6 +77,10 @@ class AnalystAgents:
 - **Customization**: Tailor models to fit specific needs.
 - **Performance**: Potentially faster responses with on-premises models.
 
+## To Know More
+- Email: hasanparvez2017@gmail.com
+- LinkedIn: https://www.linkedin.com/in/parvej2017
+
 ## License
 
 RivalMap is open-sourced under the MIT License.
