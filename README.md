@@ -7,7 +7,7 @@ Meet RivalMap – your AI-powered competitor analysis tool designed to keep you 
 
 Powered by cutting-edge AI, Google Search, LinkedIn scrapers, and web crawlers, RivalMap takes the hassle out of competitor research and delivers a ready-to-use strategic plan in no time.
 
-**Check out the video below for code walkthrough** 👇
+**Check out the video below for the tool walkthrough** 👇
 https://drive.google.com/file/d/1-zwCH658q8i0mGQxa8hbsYh0hX_hNAeQ/view?usp=sharing
 
 ## CrewAI Framework
