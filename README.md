@@ -1,4 +1,4 @@
-# RivalMap: Streamlit-Integrated AI Crew for Competitor Research and Strategy Building for Your SaaS tool
+# RivalMap: Streamlit-Integrated AI Crew for Competitor Research and Strategy Creation for Your SaaS tool
 
 _Forked and enhanced from the_ [_crewAI examples repository_](https://github.com/joaomdmoura/crewAI-examples/tree/main/trip_planner)
 
