@@ -2,6 +2,7 @@ crewai
 streamlit 
 openai
 unstructured
+python-dotenv
 pyowm
 tools
 apify-client 
