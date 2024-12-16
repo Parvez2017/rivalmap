@@ -1,0 +1,10 @@
+crewai
+streamlit 
+openai
+unstructured
+pyowm
+tools
+apify-client 
+langchain-openai 
+langchain 
+langchain-text-splitters
